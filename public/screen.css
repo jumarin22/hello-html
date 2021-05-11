@@ -7,6 +7,58 @@ html {
 }
 
 body {
-  margin: 0;
+  font-family: Ubuntu;
   min-height: 100%;
+  background-color: lightgray;
+}
+
+h1 {
+  text-align: center;
+  font-family: Shrikhand;
+  text-shadow: 2px 2px 2px #ffffff;
+  border: medium solid black;
+  border-radius: 0.9rem;
+  padding: 0.5rem;
+  background-image: url('diagonal-checkered-high-quality-photoshop-patterns.jpg');
+}
+
+h2 {
+  margin: 1em;
+  text-decoration: underline;
+  text-shadow: 2px 2px 3px #707070;
+}
+
+p {
+  margin: 1em;
+  text-align: justify;
+  line-height: 1.3rem;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3rem;
+  box-shadow: 2px 2px 3px #707070;
+}
+
+figcaption {
+  margin: 1rem;
+  text-align: center;
+  font-style: italic;
+  opacity: 0.5;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 0.3rem;
+}
+
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
