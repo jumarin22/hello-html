@@ -23,13 +23,13 @@ h1 {
 }
 
 h2 {
-  margin: 1em;
+  margin: 1rem;
   text-decoration: underline;
   text-shadow: 2px 2px 3px #707070;
 }
 
 p {
-  margin: 1em;
+  margin: 1.3em;
   text-align: justify;
   line-height: 1.3rem;
 }
