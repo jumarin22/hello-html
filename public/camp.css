@@ -15,14 +15,17 @@ body {
 h1 {
   padding: 1rem;
   text-align: center;
-  text-shadow: 2px 2px 2px #ffffff;
+  text-shadow: 2px 2px 2px tan;
   border: medium solid brown;
   border-radius: 0.9rem;
+  background-color: brown;
+  box-shadow: 0.3rem 0.3rem 0.3rem #a52967;
 }
 
 h2 {
   margin: 1rem;
   text-decoration: underline;
+  text-shadow: 0.3rem 0.3rem 0.3rem #a52a2a;
 }
 
 p {
