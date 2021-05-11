@@ -1,0 +1,37 @@
+:root {
+  font: 16px / 1 sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: Ubuntu;
+  min-height: 100%;
+  background-color: tan;
+}
+
+h1 {
+  padding: 1rem;
+  text-align: center;
+  border: medium solid brown;
+  text-shadow: 2px 2px 2px #ffffff;
+}
+
+h2 {
+  margin: 1rem;
+  text-decoration: underline;
+}
+
+p {
+  margin: 1.3em;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3rem;
+  box-shadow: 3px 3px 3px #707070;
+}
